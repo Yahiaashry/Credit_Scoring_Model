@@ -1,4 +1,4 @@
-#  Task 1: Credit Scoring ModelCan you play? Adam Wadham Seth at Spanish Music. Canal Desert. Mission.
+#  Task 1: Credit Scoring Model
 
 ##  Objective
 The primary goal of this project is to predict an individual's creditworthiness based on their past financial data. This allows financial institutions to assess the risk of lending money to a client.
